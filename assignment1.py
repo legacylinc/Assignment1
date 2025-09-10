@@ -1,11 +1,10 @@
-# This is a simple Python program to demonstrate
-# the use of variables, constants, and the print function.
+# This is a simple Python program to demonstrate the use of variables, constants, and the print function.
 
-# Variables (they can change)
-name = "Lincoln"     # a variable holding a text (string)
-age = 25             # a variable holding a number (integer)
+# Variables
+name = "Lincoln"     
+age = 25             
 
-# Constant (by convention, written in ALL CAPS to show it should not change)
+# Constant 
 PI = 3.14159
 
 # Using the print function to display information
